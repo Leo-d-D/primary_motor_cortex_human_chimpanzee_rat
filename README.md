@@ -9,8 +9,8 @@ and the chimpanzees ((https://assets.nemoarchive.org/dat-depxfwd) and rats (http
 This package uses python 3.10, you can also run the scripts on google colab. 
 Below are the required libraries. 
 
-scipy
-anndata
+<br> scipy
+<br> anndata
 pandas
 seaborn
 scib_metrics
