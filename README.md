@@ -9,16 +9,16 @@ and the chimpanzees ((https://assets.nemoarchive.org/dat-depxfwd) and rats (http
 This package uses python 3.10, you can also run the scripts on google colab. 
 Below are the required libraries. 
 
-<br> scipy
-<br> anndata
-<br> pandas
-<br> seaborn
-<br> scib_metrics
-<br> scvi
-<br> harmony
-<br> torch
-<br> scrublet
-<br> devCellpy
+<br> ***scipy***
+<br> ***anndata***
+<br> ***pandas***
+<br> ***seaborn***
+<br> ***scib_metrics***
+<br> ***scvi***
+<br> ***harmony***
+<br> ***torch***
+<br> ***scrublet***
+<br> ***devCellpy***
 
 For DEG analysis, R package ***limma***, ***edgeR***, ***dplyr***, ***magrittr***, ***reticulate***, and ***scipy.parse*** were used.
 For signaling pathway enrichment study, R package ***cellchat*** was used.
