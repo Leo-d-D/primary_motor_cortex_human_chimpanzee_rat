@@ -1,0 +1,3 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"GO:MF","monoatomic ion-gated channel activity","GO:0022839","true","0.014944391179069224","1.8255217730272761","31","41","3","20212","KCNT2,TRPC3,KCNN2"
+"GO:BP","retinal ganglion cell axon guidance","GO:0031290","true","0.023706356705083347","1.6251351851384928","23","41","3","21031","PTPRO,PTPRM,ROBO2"
