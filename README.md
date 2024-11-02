@@ -29,4 +29,6 @@ For classfication, the XGBoost implementation in ***devCellpy*** was used.
 For any questions or request, please contact the author of this repository.
 
 # Citation
-biorxiv coming soon.
+OSF preprint:
+https://osf.io/preprints/osf/j3fnp
+
